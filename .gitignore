@@ -1,0 +1,7 @@
+# Keep these to protect the API key
+key.env
+.env
+
+# Keep these to keep the repo clean
+__pycache__/
+*.pyc

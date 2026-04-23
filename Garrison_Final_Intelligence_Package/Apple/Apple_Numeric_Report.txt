@@ -1,0 +1,17 @@
+=== APPLE BRAND INTELLIGENCE (2-TIER) ===
+Total Samples: 9673
+
+Tier: Controlled  
+  - λ (Decay/Day):  0.000201
+  - σ (Randomness): 0.2051
+  - Avg MPI:        0.2757
+  - Avg Heat:       0.2200
+  - Sample Count:   760
+
+Tier: Uncontrolled
+  - λ (Decay/Day):  0.000035
+  - σ (Randomness): 0.1702
+  - Avg MPI:        0.3566
+  - Avg Heat:       0.1038
+  - Sample Count:   8913
+

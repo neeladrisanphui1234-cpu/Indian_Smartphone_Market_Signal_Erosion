@@ -1,0 +1,16 @@
+=== GLOBAL MARKET DYNAMICS SUMMARY (2-TIER MODEL) ===
+
+--- CONTROLLED VS UNCONTROLLED PERFORMANCE ---
+                   MPI                Heat
+                  mean       std      mean
+Env                                       
+Controlled    0.390537  0.214126  0.175504
+Uncontrolled  0.439015  0.189451  0.104587
+
+--- FORMAT DYNAMICS: VIDEO VS SHORTS ---
+                             MPI      Heat
+Format    Env                             
+Long-form Controlled    0.422024  0.168686
+          Uncontrolled  0.451318  0.109327
+Shorts    Controlled    0.366026  0.180812
+          Uncontrolled  0.410745  0.093695

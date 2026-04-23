@@ -1,0 +1,17 @@
+=== OPPO BRAND INTELLIGENCE (2-TIER) ===
+Total Samples: 8560
+
+Tier: Controlled  
+  - λ (Decay/Day):  0.000109
+  - σ (Randomness): 0.2630
+  - Avg MPI:        0.4298
+  - Avg Heat:       0.1519
+  - Sample Count:   1072
+
+Tier: Uncontrolled
+  - λ (Decay/Day):  0.000046
+  - σ (Randomness): 0.2293
+  - Avg MPI:        0.5087
+  - Avg Heat:       0.0868
+  - Sample Count:   7488
+

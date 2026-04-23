@@ -1,0 +1,17 @@
+=== VIVO BRAND INTELLIGENCE (2-TIER) ===
+Total Samples: 10737
+
+Tier: Controlled  
+  - λ (Decay/Day):  0.000063
+  - σ (Randomness): 0.1472
+  - Avg MPI:        0.3953
+  - Avg Heat:       0.1544
+  - Sample Count:   1412
+
+Tier: Uncontrolled
+  - λ (Decay/Day):  0.000064
+  - σ (Randomness): 0.1412
+  - Avg MPI:        0.3965
+  - Avg Heat:       0.1347
+  - Sample Count:   9325
+

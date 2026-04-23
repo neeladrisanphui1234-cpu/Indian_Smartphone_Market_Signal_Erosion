@@ -1,0 +1,17 @@
+=== SAMSUNG BRAND INTELLIGENCE (2-TIER) ===
+Total Samples: 10894
+
+Tier: Controlled  
+  - λ (Decay/Day):  0.000052
+  - σ (Randomness): 0.2354
+  - Avg MPI:        0.3951
+  - Avg Heat:       0.2641
+  - Sample Count:   824
+
+Tier: Uncontrolled
+  - λ (Decay/Day):  0.000040
+  - σ (Randomness): 0.1875
+  - Avg MPI:        0.4872
+  - Avg Heat:       0.1143
+  - Sample Count:   10070
+

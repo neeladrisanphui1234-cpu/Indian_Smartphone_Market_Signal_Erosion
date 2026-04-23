@@ -1,0 +1,17 @@
+=== XIAOMI BRAND INTELLIGENCE (2-TIER) ===
+Total Samples: 8352
+
+Tier: Controlled  
+  - λ (Decay/Day):  0.000088
+  - σ (Randomness): 0.1826
+  - Avg MPI:        0.4385
+  - Avg Heat:       0.1041
+  - Sample Count:   725
+
+Tier: Uncontrolled
+  - λ (Decay/Day):  0.000005
+  - σ (Randomness): 0.1728
+  - Avg MPI:        0.4554
+  - Avg Heat:       0.0734
+  - Sample Count:   7627
+
